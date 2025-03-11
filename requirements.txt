@@ -9,4 +9,4 @@ numba==0.60
 anytree==2.12.1 
 opencv-python
 open-clip-torch==2.24
-transofmers==4.41.2
+transformers==4.41.2
